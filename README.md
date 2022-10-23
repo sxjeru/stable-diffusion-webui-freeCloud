@@ -5,4 +5,4 @@
 #### 具体细节请前往 Blog 查看：<a href="https://dwz.sxjeru.top/cHTD" target="_blank">《本人对 Stable Diffusion 的全部探索》</a>
 ----
 #### Amazon SageMaker Studio Lab
-[![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/sxjeru/stable-diffusion-webui-freeCloud/blob/main/stablediffusionui-adapted-to-novelaileaks.ipynb)
+[![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/sxjeru/stable-diffusion-webui-freeCloud/blob/main/amazon-stablediffusionui-adapted-to-novelaileaks.ipynb)
